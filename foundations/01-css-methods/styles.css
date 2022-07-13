@@ -1,9 +1,21 @@
 /* styles.css */
 div {
     color: white;
-    background-color: black;
+    background-color: red;
+    font-size: 32px;
+    font-weight:bold;
+    
 }
 
+
 p {
-    color: red;
+    color: white;
+    background-color: green;
+    font-size:  18px;
 }
+
+button {
+    background-color: orange;
+    font-size: 18px;
+}
+
