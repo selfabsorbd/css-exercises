@@ -1,0 +1,20 @@
+.paragraph {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 192, 203);
+}
+
+.large {
+    font-size: 24px;
+}
+
+#large-blue {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#large-green {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
